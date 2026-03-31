@@ -117,6 +117,13 @@
       "key": "Backspace"
     }
   ],
-  "editor:delete-paragraph": [],
-  "editor:open-link-in-new-leaf": []
+  "editor:open-link-in-new-leaf": [],
+  "obsidian-mind-map:app:markmap-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ]
 }

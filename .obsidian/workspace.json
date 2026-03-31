@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a8c0636d36fcdf6f",
+        "id": "68842cd24682f6b2",
         "type": "tabs",
         "children": [
           {
-            "id": "734c01cc8dad0b1d",
+            "id": "3ad475eb800ab8a0",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "SQL.base",
-                "viewName": "表格"
+                "file": "欢迎.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "SQL"
+              "icon": "lucide-file",
+              "title": "欢迎"
             }
           }
         ]
@@ -77,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 200
   },
   "right": {
     "id": "193188348fb95f36",
@@ -93,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL.base",
+                "file": "欢迎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "SQL 的大纲"
+              "title": "欢迎 的大纲"
             }
           },
           {
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07我的笔记/申论.md",
+                "file": "欢迎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "申论 的反向链接列表"
+              "title": "欢迎 的反向链接列表"
             }
           },
           {
@@ -127,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07我的笔记/申论.md",
+                "file": "欢迎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "申论 的出链列表"
+              "title": "欢迎 的出链列表"
             }
           },
           {
@@ -156,15 +157,15 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,53 +179,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "734c01cc8dad0b1d",
+  "active": "3ad475eb800ab8a0",
   "lastOpenFiles": [
     "欢迎.md",
+    "未命名",
+    "未命名.base",
     "SQL.base",
     "README.md",
-    "未命名.base",
-    "创建链接.md",
-    "未命名.md",
-    "07我的笔记/考公内容.md",
-    "07我的笔记/申论.md",
-    "考公&考编对比.md",
-    "【网友红领巾】7000字行测经验贴.md",
-    "03程序员考公指南/README程序员考公指南.md",
-    "03程序员考公指南/程序员上岸经历.md",
-    "03程序员考公指南/img/最小类型.jpg",
-    "03程序员考公指南/img/细分类型.png",
-    "03程序员考公指南/img/练习叶子结点.png",
-    "03程序员考公指南/img/金字塔原理.webp",
-    "03程序员考公指南/img/二维码.png",
-    "04历年考公真题/README公务员考试试卷仓库.md",
-    "未命名.canvas",
-    "2025-06-27.md",
-    "posts/专业大类/使用指南.md",
-    "posts/专业大类",
-    "posts",
-    "00-公务员考试经验笔记/行测/常识判断/历史与文化/中国近现代战争/README.md",
-    "00-公务员考试经验笔记/README.md",
-    "06folder/text.md",
-    "06folder/folder2/text2.md",
-    "06folder/folder2",
-    "03程序员考公指南/最佳实践/README.md",
-    "06folder",
-    "00-公务员考试经验笔记/行测/README.md",
-    "00-公务员考试经验笔记/申论/README.md",
-    "00-公务员考试经验笔记/申论/申论.png",
-    "申论/申论.md",
-    "申论",
-    "07我的笔记",
-    "04历年考公真题/国考/试卷/2000年国家公务员考试《行测》真题.pdf",
-    "https：/www.bilibili.com/video/BV1nE411o7qp.md",
-    "https：/www.bilibili.com/video",
-    "99公务员从入门到上岸，最佳程序员公考实践教程/README.md",
-    "99公务员从入门到上岸，最佳程序员公考实践教程/doc/D2G项目21年12月24日会议纪要.md",
-    "99公务员从入门到上岸，最佳程序员公考实践教程/doc/公考概述、思想建设以及物质准备.md",
-    "99公务员从入门到上岸，最佳程序员公考实践教程/doc/img/Wechat.jpeg",
-    "99公务员从入门到上岸，最佳程序员公考实践教程/doc/img/5aef442b66e4651bf6e0a8a24513541-20211115154749-9u2shjb.jpg",
-    "99公务员从入门到上岸，最佳程序员公考实践教程/img/qcode..jpeg",
+    "00-zero",
+    "99-END",
+    "08⑧ - 副本",
+    "08⑧",
     "99公务员从入门到上岸，最佳程序员公考实践教程/img/6.png"
   ]
 }

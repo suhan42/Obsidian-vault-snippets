@@ -2,10 +2,11 @@
 
 /* 图片居中 */
 div.internal-embed.media-embed.image-embed{
-	display: flex;
-	justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
+
 
 /* hover 出现图片描述 */
 /*

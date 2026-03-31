@@ -5,5 +5,7 @@
   "promptDelete": true,
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true
 }

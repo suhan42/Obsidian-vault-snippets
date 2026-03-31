@@ -22,3 +22,49 @@ h1标题居中
 .HyperMD-header-1 {
     text-align: center;
 }
+
+
+/* ============================================= 
+表格居中
+ ============================================= */
+div .table-wrapper {
+	width: 100% !important;
+    display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+/* div .table-wrapper table {
+	width: 100% !important;
+} */
+
+div .table-wrapper table th {
+	/* text-align: center; */
+	font-size: 1.05em;
+}
+
+div .table-wrapper table td {
+	/* text-align: center; */
+	font-size: 1em;
+}
+
+
+/* ============================================= 
+选中的那行高亮
+ ============================================= */
+ /* 行号 */
+.markdown-source-view.mod-cm6 .cm-lineNumbers .cm-gutterElement.cm-active {
+    color: var(--text-accent);
+    font-size: 13px; /* 光标所在行行号字号 */
+    font-weight: bold; /* 光标所在行行号 */
+    border-left: 2px solid red; /* 添加竖线 */
+}
+/* 行号背景 - 注释就关闭了*/
+/* .markdown-source-view.mod-cm6 .cm-lineNumbers .cm-gutterElement.cm-active, */
+/* 行背景 */
+.markdown-source-view.mod-cm6 .cm-line.cm-active {
+    transition: all 300ms ease-in-out;	/* 动画 */
+    background-color: color-mix(in srgb, var(--text-accent) 5%, transparent);
+	border-radius: 5px; 
+}
+
