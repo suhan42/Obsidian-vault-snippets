@@ -4,17 +4,17 @@
   "enabledCssSnippets": [
     "Typora_Github2",
     "checkout",
-    "code",
     "list",
     "Picture",
     "Typora_Github",
     "Customized from web",
     "suhan",
     "Colored Sidebar Items",
+    "styles",
     "backgroud"
   ],
   "baseFontSizeAction": false,
-  "cssTheme": "",
+  "cssTheme": "Things",
   "theme": "system",
   "showRibbon": true
 }

@@ -1,14 +1,12 @@
 /* ============================================= 背景 ============================================= */
 body {
 
-  --guohui: url( https://haowallpaper.com/link/common/file/previewFileImg/16535084960304512);
-  --qtw: url( https://haowallpaper.com/link/common/file/previewFileImg/16019647630462336);
   --flower: url( https://haowallpaper.com/link/common/file/previewFileImg/16449373166816640);
   --green: url( https://haowallpaper.com/link/common/file/previewFileImg/17090582237924736);
   --nv: url( https://haowallpaper.com/link/common/file/previewFileImg/15737845609828672);
 
-  --background-opacity: 0.3; /* 设置背景透明度 */
-  --background-image-blur: 1px; /* 设置背景图像模糊度 */
+  --background-opacity: 0.2; /* 设置背景透明度 */
+  --background-image-blur: 5px; /* 设置背景图像模糊度 */
   --background-image-contrast: 140%; /* 设置背景图像对比度 */
   --background-image-saturate: 150%; /* 设置背景图像饱和度 */
   --background-image-brightness: 1; /* 设置背景图像亮度 */
@@ -19,7 +17,7 @@ body {
 }
 
 .theme-dark {
-  --background-image: var(--qtw);
+  --background-image: var(--nv);
 }
 
 body::before {
