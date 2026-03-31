@@ -1,0 +1,9 @@
+{
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "promptDelete": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "relative"
+}

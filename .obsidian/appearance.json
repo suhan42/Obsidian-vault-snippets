@@ -1,0 +1,19 @@
+{
+  "nativeMenus": false,
+  "accentColor": "#002fa7",
+  "enabledCssSnippets": [
+    "Typora_Github2",
+    "checkout",
+    "code",
+    "list",
+    "Picture",
+    "Typora_Github",
+    "Customized from web",
+    "suhan",
+    "Colored Sidebar Items",
+    "backgroud"
+  ],
+  "baseFontSizeAction": false,
+  "cssTheme": "Things",
+  "theme": "system"
+}

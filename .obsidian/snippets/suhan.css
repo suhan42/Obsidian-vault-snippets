@@ -1,0 +1,24 @@
+/* ============================================= 
+粗体变红
+ ============================================= */
+/*body {
+    --bold-color:red;
+    --bold-weight:700;
+}
+
+div.cm-line span.cm-strong {
+	color: var(--bold-color) !important;
+	font-weight: var(--bold-weight)!important;
+}
+div p strong {
+	color: var(--bold-color) !important;
+	font-weight: var(--bold-weight)!important;
+}*/
+
+
+/* ============================================= 
+h1标题居中
+ ============================================= */
+.HyperMD-header-1 {
+    text-align: center;
+}

@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:07我的笔记  ",
+      "color": {
+        "a": 1,
+        "rgb": 14075484
+      }
+    },
+    {
+      "query": "path:01公务员考试粉笔直播课 path:",
+      "color": {
+        "a": 1,
+        "rgb": 6084302
+      }
+    },
+    {
+      "query": "path:02考公行测常识题-思维导图  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:03程序员考公指南  ",
+      "color": {
+        "a": 1,
+        "rgb": 6056662
+      }
+    },
+    {
+      "query": "path:04历年考公真题  ",
+      "color": {
+        "a": 1,
+        "rgb": 13917398
+      }
+    },
+    {
+      "query": "path:00-公务员考试经验笔记  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.2826124567474,
+  "lineSizeMultiplier": 2.87638408304498,
+  "collapse-forces": true,
+  "centerStrength": 0.535467128027682,
+  "repelStrength": 10.9861591695502,
+  "linkStrength": 1,
+  "linkDistance": 239,
+  "scale": 1.4019828977761093,
+  "close": true
+}
